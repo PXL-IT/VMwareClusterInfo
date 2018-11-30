@@ -6,7 +6,7 @@ VMware project. That device is the gateway, it will route traffic.
 
 ## Q2: We don't get an IP on our routable network via DHCP.
 **A2:** Correct, there is no DHCP server on the routable network. The gateway, which is already there, only provides routing. Therefore, all servers should have a static IP address.
-You received the range via mail with together with the login.
+You received the project range via mail together with the login.
 
 ## Q3: The other networks don't have internet access.
 **A3:** Correct, you have to setup your own routing towards the routable network.
