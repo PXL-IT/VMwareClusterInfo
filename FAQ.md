@@ -2,7 +2,7 @@
 
 ## Q1: What's the routable network?
 **A1:** Every project has its own routable network. There is already one device up and running, which lives outside of your
-VMware project. That devices is the gateway, it will route traffic.
+VMware project. That device is the gateway, it will route traffic.
 
 ## Q2: We don't get an IP on our routable network via DHCP.
 **A2:** Correct, there is no DHCP server on the routable network. The gateway, which is already there, only provides routing. Therefore, all servers should have a static IP address.
@@ -21,3 +21,15 @@ The second way to create a VM is from scratch with an ISO. The ISO files can be 
 
 ## Q5: Can we have a real public IP address?
 **A5:** Yes, **but...** This will be evaluated from case to case. We need to know **why** and **which services and ports**. Only if the team can provide us with convincing evidence the serverices will be secure, an public IP will be granted.
+
+## Q6: How can we communicate with Tim?
+**A6:** I'll be as much as possible available on *Skype for Business* during the IT-Project hours. Login with your `student-number-mail-address` and search for my full name.
+
+### Before the winter break:
+IRL @ iSpace: Each afternoon of the IT Project. From around or a little bit after 14h00 until the end.
+
+On Thursday the 20th and Friday the 21th of December, I won't be present at iSpace due to the opening of DronePort (the  manned and unmanned aviation campus and incubator).
+
+### After the winter break:
+At this moment it's still a little bit unclear when I'll be at iSpace and when at DronePort.
+So, it's still: **TBA**.
