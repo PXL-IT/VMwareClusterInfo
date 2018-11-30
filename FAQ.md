@@ -33,3 +33,6 @@ On Thursday the 20th and Friday the 21th of December, I won't be present at iSpa
 ### After the winter break:
 At this moment it's still a little bit unclear when I'll be at iSpace and when at DronePort.
 So, it's still: **TBA**.
+
+## Q7: The AON and SWM students can't login via VPN.
+**A6:** By default, PXL students don't have VPN access. You, SNB student, we're probably granted access for the Research Project during the previous academic year. I'm going to send a request to the PXL IT department to grant all students following the IT Project course VPN access. During the second week of the IT-Project, everyone should have VPN access. **If not, contact me!**
