@@ -12,7 +12,7 @@ You received the project range via mail together with the login.
 **A3:** Correct, you have to setup your own routing towards the routable network.
 
 ## Q4: How can I create a new VM?
-**A3:** There are two ways to create a new VM. The preferred manner is to create a VM from an existing template. There are a few templates available. You can view them in the second tab (VMs and Templates). There should be a folder called `Templates`. Just right click on the preferred template and `New VM from this Template...`.
+**A4:** **First of all use the HTML web interface or the API.** There are two ways to create a new VM. The preferred manner is to create a VM from an existing template. There are a few templates available. You can view them in the second tab (VMs and Templates). There should be a folder called `Templates`. Just right click on the preferred template and `New VM from this Template...`.
 
 The second way to create a VM is from scratch with an ISO. The ISO files can be found on each of the three `Local  compute datastores` under the directory `isos`. When you create a new VM, select at step `7 Customize hardware` under `New CD/DVD Drive *` the option `datastore ISO file`. Note: only the datastore where the VM will be made is accessable in this window. (We don't want to install a VM using an ISO file located on an other Compute node now, do we?). Select the ISO file of your choosing. **Do not forget to check `☑ Connect At Power On` before continuing to step 8!!!**
 
