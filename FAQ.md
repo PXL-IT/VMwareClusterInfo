@@ -25,6 +25,13 @@ The second way to create a VM is from scratch with an ISO. The ISO files can be 
 ## Q6: How can we communicate with Tim?
 **A6:** I'll be as much as possible available on *Skype for Business* during the IT-Project hours. Login with your `student-number-mail-address` and search for my full name.
 
+The [SNB DevOps feedback/evaluation schedule](https://drive.google.com/open?id=1pIyWewGe2D4Ux9T4hnPcMfLeWMBVqv0Okfn7-KEUQdw) document gives a clear overview when your group evaluation moments are planned. A ten-minute timebox will be used during those meetings. If more time is needed, other moments can easily be requested. There are multiple empty boxes in the spreadsheet. Just ask Tim IRL or via Skype. He will schedule more time and update the schedule. Also, if a (or more) moment(s) doesn't suit you or your group, just ask to reschedule the evaluation moment(s).
+
+
+### SNB DevOps feedback/evaluation schedule
+The [SNB DevOps feedback/evaluation schedule](https://drive.google.com/open?id=1pIyWewGe2D4Ux9T4hnPcMfLeWMBVqv0Okfn7-KEUQdw) document gives a clear overview of all the feedback/evaluation moments.
+
+
 ### Before the winter break:
 IRL @ iSpace: Each afternoon of the IT Project. From around or a little bit after 14h00 until the end.
 
