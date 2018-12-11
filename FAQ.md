@@ -48,4 +48,4 @@ So, it's still: **TBA**.
 
 
 ## Q8: What are the credentials of the templates?
-**A8:** For the `-base-` templates it's: Login: `user`, password: `user`. Why so unsecure? To trigger you to change it **immediately**!
+**A8:** For the `-base-` templates it's: Login: `user`, password: `user`. For the  template `CnA-Jumpbox`, it's: Login `ansible` password: `test`. Why so unsecure? To trigger you to change it **immediately**!
